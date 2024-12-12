@@ -1,13 +1,6 @@
 # enterprise
 
-![PyPI](https://img.shields.io/pypi/v/enterprise-pulsar)
-![Conda (channel only)](https://img.shields.io/conda/vn/conda-forge/enterprise-pulsar)
-[![Build Status](https://github.com/nanograv/enterprise/workflows/CI-Tests/badge.svg)](https://github.com/nanograv/enterprise/actions)
-[![Documentation Status](https://readthedocs.org/projects/enterprise/badge/?version=latest)](https://enterprise.readthedocs.io/en/latest/?badge=latest)
-[![Test Coverage](https://codecov.io/gh/nanograv/enterprise/branch/master/graph/badge.svg?token=YXSX3293VF)](https://codecov.io/gh/nanograv/enterprise)
-![Python Versions](https://img.shields.io/badge/python-3.8%2C%203.9%2C%203.10%2C%203.11%2C%203.12-blue.svg)
-
-[![Zenodo DOI 4059815](https://zenodo.org/badge/DOI/10.5281/zenodo.4059815.svg)](https://doi.org/10.5281/zenodo.4059815)
+This is Yonghao's fork of ENTERPRISE. Not Official.
 
 ENTERPRISE (Enhanced Numerical Toolbox Enabling a Robust PulsaR
 Inference SuitE) is a pulsar timing analysis code, aimed at noise
